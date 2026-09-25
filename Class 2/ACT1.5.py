@@ -1,0 +1,6 @@
+print("hello tom")
+print(79)
+print("the weather\nis hot")
+print("It is late",567)
+print("I am 10",end="I")
+print("hi") 
