@@ -1,0 +1,16 @@
+a=20
+b=-20
+print(a>>1)
+print(b>>1)
+a=5
+b=-10
+print(a<<1)
+print(b<<1)
+a=20
+b=-20
+print(a>>2)
+print(b>>3)
+a=5
+b=-10
+print(a<<2)
+print(b<<2)
