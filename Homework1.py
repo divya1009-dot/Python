@@ -1,0 +1,17 @@
+import keyword
+name=input("enter your name")
+goal=input("what is your goal")
+month=input("enter your target month")
+daily_min=30
+print("\nMY PERSONAL GAOLS DISPLAY\n")
+print("Name:",name)
+print("Goal",goal)
+print("terget month",month)
+print("Daily practice:",daily_min,"minutes")
+print("Status: ",end="-")
+print("not started")
+print("Reminder",end="-")
+print("Practise every day!")
+print("in one sentence:",name,"plans to work on",goal,"for",daily_min,"untill",month)
+print("\nwords python has reserved for itself:\n")
+print(keyword.kwlist)
